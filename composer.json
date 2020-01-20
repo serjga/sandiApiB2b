@@ -11,7 +11,8 @@
         }
     ],
     "require": {
-        "sandi/api": "*"
+        "php": "~7.1",
+        "another-vendor/package": "1.*"
     },
     "require-dev": {
         "sandi/api": "*"
