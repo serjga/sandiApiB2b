@@ -14,7 +14,7 @@
         "php": "~7.1.1"
     },
         "require-dev": {
-        "sandi/api": "dev-master"
+        "sandi/api": "*"
     },
     "autoload": {
           "psr-4": {
