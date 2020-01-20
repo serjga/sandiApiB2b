@@ -20,5 +20,7 @@
           "psr-4": {
             "Sandi\\Api\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
