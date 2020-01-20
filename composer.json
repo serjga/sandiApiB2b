@@ -1,0 +1,21 @@
+{
+    "name": "sandi/api",
+    "description": "Composer package by API b2b Sandi+",
+    "keywords": ["api", "b2b", "sandi+"],
+    "license": "MIT",
+    "type": "library",
+    "repositories" : [
+        {
+            "type" : "git",
+            "url" : "https://github.com/serjga/sandiApiB2b"
+        }
+    ],
+    "require": {
+        "php": "~7.1.1"
+    },
+    "autoload": {
+          "psr-4": {
+            "Sandi\\Api\\": "src/"
+        }
+    }
+}
