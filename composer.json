@@ -11,8 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=5.6.4",
-        "sandi/api": "1.0.0"
+        "php": ">=5.6.4"
     },
     "autoload": {
           "psr-4": {
