@@ -18,6 +18,6 @@
             "Sandi\\Api\\": "src/"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "*",
     "prefer-stable": true
 }
