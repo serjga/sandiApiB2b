@@ -15,11 +15,11 @@
         "another-vendor/package": "1.*"
     },
     "require-dev": {
-        "sandi/api": "*"
+        "sandi/api": "@dev"
     },
     "autoload": {
           "psr-4": {
-            "Sandi\\Api\\": ""
+            "Sandi\\Api\\": "src/"
         }
     },
     "minimum-stability": "dev",
