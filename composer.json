@@ -18,7 +18,7 @@
     },
     "autoload": {
           "psr-4": {
-            "Sandi\\Api\\": "src/"
+            "Sandi\\Api\\": ""
         }
     },
     "minimum-stability": "dev",
