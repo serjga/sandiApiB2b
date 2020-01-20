@@ -1,7 +1,7 @@
 {
     "name": "sandi/api",
     "description": "Composer package by API b2b Sandi+",
-    "keywords": ["api", "b2b", "sandi+"],
+    "keywords": ["api", "b2b", "sandi"],
     "license": "MIT",
     "type": "library",
     "repositories" : [
