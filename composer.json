@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": "~7.1.1"
+        "sandi/api": "*"
     },
         "require-dev": {
         "sandi/api": "*"
