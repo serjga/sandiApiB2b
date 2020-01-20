@@ -11,10 +11,10 @@
         }
     ],
     "require": {
-        "sandi/api": "@dev"
+        "sandi/api": "*"
     },
     "require-dev": {
-        "sandi/api": "dev-master"
+        "sandi/api": "*"
     },
     "autoload": {
           "psr-4": {
