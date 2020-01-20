@@ -13,8 +13,8 @@
     "require": {
         "sandi/api": "*"
     },
-        "require-dev": {
-        "sandi/api": "*"
+    "require-dev": {
+        "sandi/api": "dev-master"
     },
     "autoload": {
           "psr-4": {
