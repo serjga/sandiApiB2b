@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "sandi/api": "*"
+        "sandi/api": "@dev"
     },
     "require-dev": {
         "sandi/api": "dev-master"
