@@ -13,9 +13,6 @@
     "require": {
         "php": "~7.1"
     },
-    "require-dev": {
-        "sandi/api": "@dev"
-    },
     "autoload": {
           "psr-4": {
             "Sandi\\Api\\": "src/"
