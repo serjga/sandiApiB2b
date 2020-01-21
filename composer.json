@@ -4,6 +4,7 @@
     "keywords": ["api", "b2b", "sandi"],
     "license": "MIT",
     "type": "library",
+    "version": "1.0.0",
     "homepage": "https://github.com/serjga/sandiApiB2b",
     "repositories" : [
         {
