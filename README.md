@@ -1,4 +1,4 @@
-# sandiApiB2b
+# sandi/api
 Description: Composer package by API b2b Sandi+ </br> </br>
 Installation </br>
 This library is installable via Composer: </br>
