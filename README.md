@@ -1,4 +1,4 @@
 # sandiApiB2b
-Installation
-This library is installable via Composer:
-composer require sandi/api @dev
+Installation </br>
+This library is installable via Composer: </br>
+composer require sandi/api @dev </br>
